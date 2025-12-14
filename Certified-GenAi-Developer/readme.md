@@ -4,4 +4,7 @@
 3. Retrieval Augmented Generation (RAG) 
 4. Vectoor Stores and Knowledge Bases
 5. Chunking
-6. 
+6. Embeddings
+7. Guardrails
+8. Token-level Redaction
+9. Prompt Management
