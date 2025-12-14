@@ -13,3 +13,24 @@
 
 # 1. Bedrock -> Fundamentals Service of Generative AI
 Foundation Models we are building on top of Bedrock
+
+
+1. Amazon Nova
+2. Amazon Titan
+     - text summarization
+     - text generation
+     - Q&A
+     - Embeddings
+        - Personalization
+        - Search
+3. Stable Diffusion (stability.ai)
+    Image, Art, Logo, Design generation
+4. Llama (Meta)
+    LLM
+5. Clause (Anthropic)
+    LLM's for conversation
+    Question answering
+    Workflow automation
+6. Jurassic-2 (AI21labs)
+    Multilingual LLMs for text generation
+    Spanish, French, German, Portuguese, Italian, Dutch
