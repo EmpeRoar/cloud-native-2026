@@ -41,3 +41,8 @@ Foundation Models we are building on top of Bedrock
 - bedrock-runtime
 - bedrock-agent
 - bedrock-agent-runtime
+
+
+ #### Randomness and Diversity
+  - Temperature 
+  - Top
