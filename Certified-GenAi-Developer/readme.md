@@ -34,3 +34,10 @@ Foundation Models we are building on top of Bedrock
 6. Jurassic-2 (AI21labs)
     Multilingual LLMs for text generation
     Spanish, French, German, Portuguese, Italian, Dutch
+
+
+# 2 Bedrok API Endpoints
+- bedrock 
+- bedrock-runtime
+- bedrock-agent
+- bedrock-agent-runtime
