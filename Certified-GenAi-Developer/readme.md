@@ -8,3 +8,5 @@
 7. Guardrails
 8. Token-level Redaction
 9. Prompt Management (prompt flows, response format templates)
+10. Enterprise Integration Patterns
+11. 
