@@ -46,3 +46,5 @@ Foundation Models we are building on top of Bedrock
  #### Randomness and Diversity
   - Temperature 
   - Top
+  - Guardrails
+  
