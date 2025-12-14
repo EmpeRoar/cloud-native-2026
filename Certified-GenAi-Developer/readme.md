@@ -7,4 +7,4 @@
 6. Embeddings
 7. Guardrails
 8. Token-level Redaction
-9. Prompt Management
+9. Prompt Management (prompt flows, response format templates)
