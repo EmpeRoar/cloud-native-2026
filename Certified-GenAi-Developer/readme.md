@@ -9,4 +9,7 @@
 8. Token-level Redaction
 9. Prompt Management (prompt flows, response format templates)
 10. Enterprise Integration Patterns
-11. 
+
+
+# 1. Bedrock -> Fundamentals Service of Generative AI
+Foundation Models we are building on top of Bedrock
